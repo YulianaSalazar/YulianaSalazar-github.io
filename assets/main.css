@@ -1,0 +1,19 @@
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color:pink;
+    color: white;
+}
+
+#one{
+    position:sticky;
+    position: -webkit-sticky;
+    margin: 0;
+    top: -1px;
+    background-color:blueviolet;
+}
+.outer{
+    width: 500px;
+    padding-left: 150px;
+}
